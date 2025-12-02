@@ -17,4 +17,8 @@ NyxShade is an shooter survival game where players combat enemies. The game feat
 # Demo
 https://github.com/user-attachments/assets/cab3475e-0d1c-4b15-9400-c9e3b61dfc64
 
+# Itch.io
+https://gygigies.itch.io/nyxshade
 
+# Attribution
+Mixamo: mixamo.com
